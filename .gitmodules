@@ -1,18 +1,24 @@
 [submodule "hudsonmx-fe"]
 	path = hudsonmx-fe
 	url = git@github.com:hudson-mx/hudsonmx-fe.git
+	branch = master
 [submodule "hudsonmx_webapp_livebuy"]
 	path = hudsonmx_webapp_livebuy
 	url = ssh://git@bitbucket.endava.com:7999/bsxdv001/hudsonmx_webapp_livebuy.git
+	branch = master
 [submodule "hudsonmx_bill-pay-web-app"]
 	path = hudsonmx_bill-pay-web-app
 	url = ssh://git@bitbucket.endava.com:7999/bsxdv001/hudsonmx_bill-pay-web-app.git
+	branch = master
 [submodule "hudsonmx_pay-when-paid-web-app"]
 	path = hudsonmx_pay-when-paid-web-app
 	url = ssh://git@bitbucket.endava.com:7999/bsxdv001/hudsonmx_pay-when-paid-web-app.git
+	branch = master
 [submodule "hudsonmx_portalweb"]
 	path = hudsonmx_portalweb
 	url = ssh://git@bitbucket.endava.com:7999/bsxdv001/hudsonmx_portalweb.git
+	branch = master
 [submodule "hudsonmx-_webapp"]
 	path = hudsonmx-_webapp
 	url = ssh://git@bitbucket.endava.com:7999/bsxdv001/hudsonmx-_webapp.git
+	branch = master
